@@ -1,5 +1,5 @@
 # SpiderImages
-## Images of 53 different spider species!
+## Image dataset of 53 different spider species!
 ![Araneus gemmoides (16)](https://user-images.githubusercontent.com/48139735/111865178-82e31b00-8976-11eb-9f20-22b44ecc40bb.jpg)
 ![images (4)](https://user-images.githubusercontent.com/48139735/111865188-98584500-8976-11eb-9e6f-808b91c7097e.jpg)
 
